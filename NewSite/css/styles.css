@@ -1,0 +1,131 @@
+body{
+  text-align: center;
+  margin: 0;
+}
+div{
+   justify-content: center;
+   text-align: center;
+   background-color: #e8ffff;
+   padding: 5% 20% 5% 25%;
+   margin: 0 0 0 0;
+   position: relative;
+}
+h1{
+  font-weight: bold;
+  font-family: 'Nerko One', cursive;
+  margin: 5rem auto 0 auto;
+  color: #66BFBF;
+}
+h2{
+  align-items: center;
+  font-family: 'Yeon Sung', cursive;
+  font-size: 3rem;
+  margin: 0 auto 2rem auto;
+  color: #66BFBF;
+}
+h3{
+  margin: 2rem 0 1rem 0;
+  font-size: 1.5rem;
+  color: #11999E;
+}
+hr{
+  border: 10px dotted grey;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+/*  margin: 0 0 0 0;*/
+margin: 2px 45% 0 45%;
+}
+p{
+  line-height: 2;
+  justify-content: center;
+  text-align: center;
+  font-size: 1.2rem;
+  font-family: 'Yeon Sung','Comic Sans',sans-serif;
+  color: #40514E;
+  padding: 0 25% 0 25%;
+  margin: 0 0 0 0;
+
+}
+.End_image{
+  height: 20px;
+}
+.top-container{
+  padding-top: 100px;
+}
+.middle-container{
+  background-color: #bce6eb;
+}
+.bottom-container{
+  background-color: #41aea9;
+}
+.skill{
+  float: left;
+  height: 9rem;
+}
+.skills{
+}
+.cloud1{
+  position:absolute;
+  right:350px;
+  top: 100px;
+}
+.cloud2{
+  position: absolute;
+  top: 280px;
+}
+
+.Contact_me{
+  padding: 10% 25% 10% 25%;
+  background-color: #bce6eb;
+}
+.Contact{
+  height: 50px;
+}
+.Contact_p{
+  padding: 0 0 0 0;
+
+}.Contact_button {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Open Sans;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 20px 30px 20px 30px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.Contact_button:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.End{
+background-color: black;
+padding-top: 20px;
+ padding-bottom: 0;
+}
